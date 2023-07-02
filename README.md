@@ -2,15 +2,25 @@
 The credit score of a person determines the creditworthiness of the person. It helps financial companies determine if you can repay the loan or credit you are applying for.
 Below are all the features in the dataset:
 1) ID: Unique ID of the record
+ 
 2)Customer_ID: Unique ID of the customer
+
 3)Month: Month of the year
+
 4)Name: The name of the person
+
 5)Age: The age of the person
+
 6)SSN: Social Security Number of the person
+
 7)Occupation: The occupation of the person
+
 8)Annual_Income: The Annual Income of the person
+
 9)Monthly_Inhand_Salary: Monthly in-hand salary of the person
+
 10)Num_Bank_Accounts: The number of bank accounts of the person
+
 11)Num_Credit_Card: Number of credit cards the person is having
 12)Interest_Rate: The interest rate on the credit card of the person
 13)Num_of_Loan: The number of loans taken by the person from the bank
